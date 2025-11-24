@@ -1,39 +1,23 @@
-# Netflix-GPT
+# Netflix-GPT (Work in Progress)
 
--create react app
--configured tailwindcss
--Header
--Routing of App
--login form
--SignUp form
--Form Validation
--useRef Hook
--Firebase Setup
--Deploying our app to production
--Create a SignUp user
--Implement SignUp user Api
--Created Redux Store with userSlice
--Implemented Sign out
--Update Profile
--Bugfix: SignUp user displayName  and profile  picture update
--Bugfix- if the user is not logged in Redirect /browser to Login Page and vice-versa
+Netflix-GPT is an AI-powered movie recommendation platform inspired by Netflix. It uses GPT to generate personalized movie suggestions, summaries, and insights based on user prompts. The project is currently under development, with core features being actively built.
 
+## 🚧 Status
+This project is **currently in progress**. New features and UI updates will be added soon.
 
-# Features
--Login/SignUp
-   -Sign In/Sign Up form
-   -redirect to browse page
--Browse page(after authentication)
-   -Header
-   -Main movie
-       -Trailer in background
-       -Title & description
-       -movie suggestions
-           -Movielists * N
+## ✨ Features (Planned / In Progress)
+- AI-powered movie recommendations using GPT  
+- Search and suggest movies based on user queries  
+- Netflix-style UI with modern components  
+- Movie summaries, genres, and insights  
+- Watchlist functionality  
+- Authentication 
+- Responsive and clean design  
+- Integration with TMDB API for real movie data  
 
--NetflixGPT
-   -Search Bar
-   -Movie Suggestions
-
-
-    
+## 🛠️ Tech Stack
+- **React **  
+- **TailwindCSS**  
+- **OpenAI APIs**  
+- **TMDB API**   
+- **Firebase** (planned for auth)
